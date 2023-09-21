@@ -1,0 +1,7 @@
+sqrt(529)
+args(sqrt)
+sqrt(x=529)
+sqrt(c(529, 81))
+args(min)
+min(23, 43, 12, NA)
+min(23, 43, 12, NA, na.rm=TRUE)
